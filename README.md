@@ -1,5 +1,4 @@
-## Dosage data location
-TBD
+This file describes MoBa 98K batch, located on TSD p697 project.
 
 ### Plink bfile location
 ```
@@ -11,6 +10,9 @@ A copy of the bim, fam and covariate files are also located at
 ```
 /tsd/p697/data/durable/genotype/MoBa_98k_post-imputationQC/
 ```
+
+## Dosage data location
+TBD
 
 ### Covariate file
 ```98k-ec-eur-fin-batch-basic-qc-cov.txt``` 
