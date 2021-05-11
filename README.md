@@ -12,7 +12,14 @@ A copy of the bim, fam and covariate files are also located at
 ```
 
 ## Dosage data location
-TBD
+
+Dosage data in ``.bgen`` format is located here:
+```
+/cluster/projects/p697/genotype/MoBa_98k_post-imputationQC/bgen
+/tsd/p697/data/durable/genotype/MoBa_98k_post-imputationQC/bgen
+```
+Corresponding .sample file has invalid FID column, simply a copy of IID column.
+If you use information on family structure, please use the data from ``.fam`` files.
 
 ### Covariate file
 ```98k-ec-eur-fin-batch-basic-qc-cov.txt``` 
